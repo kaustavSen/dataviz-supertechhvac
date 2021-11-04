@@ -1,0 +1,9 @@
+imperial-red: #e63946ff;
+honeydew: #f1faeeff;
+powder-blue: #a8dadcff;
+celadon-blue: #457b9dff;
+prussian-blue: #1d3557ff;
+
+Dark Gray: #3C3C3C
+Medium Gray: #D2D2D2
+Light Gray: #F0F0F0
