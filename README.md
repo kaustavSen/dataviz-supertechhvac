@@ -11,3 +11,6 @@ Code and plots for the Supertech HVAC article.
 <img src="plots/chart_3_map_imports.png" width=900 height=450>
 
 <img src="plots/chart_3_map_exports.png" width=900 height=450>
+
+## Chart 4: PPI for various types of cardboard containers
+<img src="plots/chart_4_bls_cardboard_index.png" width=700 height=450>
