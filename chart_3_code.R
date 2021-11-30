@@ -43,7 +43,7 @@ plot <-
                                  margin = margin(b = 10), hjust = 0.5),
     legend.position = "none",
     axis.text = element_blank(),
-    strip.text = element_text(size = rel(0.7), face = "bold", color = "#D2D2D2"),
+    strip.text = element_text(size = rel(0.7), face = "bold", color = "grey45"),
     panel.grid.major = element_blank(),
     panel.border = element_rect(linetype = "solid", fill = NA, 
                                 color = "#D2D2D2", size = 0.5)
@@ -90,7 +90,7 @@ plot <-
                                  margin = margin(b = 10), hjust = 0.5),
     legend.position = "none",
     axis.text = element_blank(),
-    strip.text = element_text(size = rel(0.7), face = "bold", color = "#D2D2D2"),
+    strip.text = element_text(size = rel(0.7), face = "bold", color = "grey45"),
     panel.grid.major = element_blank(),
     panel.border = element_rect(linetype = "solid", fill = NA, 
                                 color = "#D2D2D2", size = 0.5)
